@@ -1,0 +1,3 @@
+"issuer": "http://localhost/auth/realms/proa"
+"token_endpoint": "http://localhost/auth/realms/proa/protocol/openid-connect/token"
+"jwks_uri": "http://localhost/auth/realms/proa/protocol/openid-connect/certs"
